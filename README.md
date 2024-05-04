@@ -1,8 +1,8 @@
-# Rent Price Prediction
+# Walmart Sales Forecast
 
 ## Overview
 
-This project focuses on designing and implementing a machine learning model to predict the rent price of apartments. Through data preprocessing, feature engineering, and the utilization of various regression algorithms, we aim to enhance the model's performance and accuracy.
+This project focuses on designing and implementing a machine learning model to predict the walmart sales. Through data preprocessing, feature engineering, and the utilization of various regression algorithms, we aim to enhance the model's performance and accuracy.
 
 ## Project Details
 
